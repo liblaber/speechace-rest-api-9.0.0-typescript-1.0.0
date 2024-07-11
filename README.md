@@ -86,7 +86,7 @@ Score Fluency - Spanish
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                      |
 | :------ | :----- | :------------------------------------------------------------------------------- |
