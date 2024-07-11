@@ -172,7 +172,7 @@ Validate Text
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                                                                |
 | :------ | :----- | :------------------------------------------------------------------------------------------------------------------------- |
@@ -216,7 +216,7 @@ PTE Answer Question
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name     | Type   | Description                                                                                     |
 | :------- | :----- | :---------------------------------------------------------------------------------------------- |
@@ -260,7 +260,7 @@ Get Grammar, Vocab, Coherence feedback metrics
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                                                   |
 | :------ | :----- | :------------------------------------------------------------------------------------------------------------ |
@@ -304,7 +304,7 @@ Score Vocabulary & Grammar
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :------ | :----- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -348,7 +348,7 @@ Score a Phoneme list
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :------ | :----- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -392,7 +392,7 @@ Validate Text
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                                                                |
 | :------ | :----- | :------------------------------------------------------------------------------------------------------------------------- |
@@ -436,7 +436,7 @@ Assess Relevance
 
 **Optional Parameters**
 
-Optional parameters are passed as part of the last parameter to the method. Ex. {optionalParam1 : 'value1', optionalParam2: 'value2'}
+Optional parameters are passed as part of the last parameter to the method. Ex. ```{optionalParam1 : 'value1', optionalParam2: 'value2'}```
 
 | Name    | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | :------ | :----- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
