@@ -2,4 +2,16 @@
 
 import { Speechaceapi } from 'speechaceapi';
 
-// No simple endpoint service was given
+(async () => {
+  const speechaceapi = new Speechaceapi({});
+
+  const input = {};
+
+  const { data } = await speechaceapi.v9Latest_.validateText(input, {
+    key: '{{speechacekey}}',
+    text: '"Validate these words existeee."',
+    dialect: 'en-us',
+  });
+
+  console.log(data);
+})();
